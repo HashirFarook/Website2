@@ -1,6 +1,2 @@
-# NewPortfolio
-How many can I keep on creating?
-
-A place where I create and publish my portfolio
-
-Anyone can use it as a template or inspiration
+# Website2
+As of right now, my website (https://hashirfarooq.com/) is on the Website v1.0. This is Website v2.0. It has newer information and a much better design.
